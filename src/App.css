@@ -157,8 +157,24 @@ h1 {
 
 .create-playlist button[type="submit"] {
   width: 10em;
+  transition: background-color 150ms ease;
 }
 
 .create-playlist button:hover {
+  background-color: rgba(255, 255, 255, .35);
   outline: 3px solid rgba(125, 255, 125, .55);
+}
+
+.title {
+  min-height: 20%;
+  transition: font-size 150ms ease;
+}
+
+.title h3 {
+  font-size: 1.5em;
+  text-align: center;
+}
+
+.page {
+  min-height: 70vh;
 }
