@@ -8,5 +8,5 @@ There are three primary ways to generate playlists in this project:
 - From a song you like
 - From a genre you like
 
-* Note - this project is in development mode and as such, there is a maximum of 25 registered users. Any users beyond
+Note - this project is in development mode and as such, there is a maximum of 25 registered users. Any users beyond
 that may not be able to have their playlists appear without having existing users booted from the registry. *
